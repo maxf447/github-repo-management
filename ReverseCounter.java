@@ -1,7 +1,7 @@
 class ReverseCounter {
     public static void main(String[] args) {
-      // Prints the numbers from 0 to 99 (in reverse!)
-      count(99);
+      // Prints the numbers from 0 to 1000 (in reverse!)
+      count(1000);
     }
     // Helper function to count down to a number
     public void count(int num) {
