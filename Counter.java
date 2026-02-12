@@ -1,4 +1,4 @@
-class Test {
+class Counter {
     public static void main(String[] args) {
       // Prints the numbers from 0 to 99
       count(99);
